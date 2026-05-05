@@ -1,0 +1,3 @@
+demo_id=default
+patch_hash=sha256:demo_patch_hash
+marker=governed_execution_enforced
